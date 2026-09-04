@@ -1,0 +1,7 @@
+node_modules/
+.env
+tokens.json
+media/*
+!media/.gitkeep
+queue/*.json
+.x-pkce
